@@ -2,9 +2,13 @@
 # I lost my harddrive
 ## such is life
 ### but im still gonna make this website
-#### 
+
+
 ##### Theres the story
 ###### _I was real studious all semster and even went to most of the classes! I saved everything on my harddrive cuz how could anyone lose a small rectangular thang. So I lost the harddrive. But its ok cuz Mads was really nice about it._
+
+
+##**Heres what i still have:**
 
 ![alt text here](thing.jpg)
 ![alt text here](otherthing.jpg)
