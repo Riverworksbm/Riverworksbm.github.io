@@ -1,12 +1,16 @@
 # Riverworksbm.github.io
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+# I lost my harddrive
+## such is life
+### but im still gonna make this website
+#### 
+##### Theres the story
+###### _I was real studious all semster and even went to most of the classes! I saved everything on my harddrive cuz how could anyone lose a small rectangular thang. So I lost the harddrive. But its ok cuz Mads was really nice about it._
 
 ![alt text here](thing.jpg)
+![alt text here](otherthing.jpg)
+![alt text here](IMG_0565.jpg)
+![alt text here](IMG_0637.jpg)
+
 
 
 Alternatively, for H1 and H2, an underline-ish style:
