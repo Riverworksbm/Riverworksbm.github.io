@@ -6,6 +6,9 @@
 ##### H5
 ###### H6
 
+![alt text here](thing.jpg)
+
+
 Alternatively, for H1 and H2, an underline-ish style:
 
 Alt-H1
