@@ -10,10 +10,10 @@
 
 ##**Heres what i still have:**
 
-![alt text here](thing.jpg)
-![alt text here](otherthing.jpg)
-![alt text here](IMG_0565.jpg)
-![alt text here](IMG_0637.jpg)
+<img width="164" alt="Screenshot 2025-05-02 at 3 30 55 PM" src="https://github.com/user-attachments/assets/766be638-c678-4529-b981-08f87d22d0a2" />
+<img width="96" alt="Screenshot 2025-05-02 at 3 29 33 PM" src="https://github.com/user-attachments/assets/e19ef77a-6714-4bdd-8131-a53da38c6a00" />
+![IMG_0637](https://github.com/user-attachments/assets/ac2cd0dd-d456-4963-add5-516cabcbafe7)
+
 
 
 
