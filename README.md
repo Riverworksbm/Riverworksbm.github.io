@@ -18,8 +18,8 @@
 
 ![IMG_0565](https://github.com/user-attachments/assets/2348dafc-2330-41f7-a63b-b36a731d297e)
 
-##heresis my video, sorry if yall already saw it last semester....
-###<https://youtu.be/wyxIWT8xQ6U>
+## heresis my video, sorry if yall already saw it last semester....
+### <https://youtu.be/wyxIWT8xQ6U>
 
 
 
